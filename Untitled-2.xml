@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
   <ModulePrefs title="JQL Gadget"
   description="This gadget pulls content from an arbitrary JIRA JQL Query and displays the results in the gadget window"
